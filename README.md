@@ -8,28 +8,12 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.8.3-blue)
 ![LINE Bot](https://img.shields.io/badge/LINE-Bot%20API-00C300)
 
-**🏆 Hackathon Project Submission 2024**
+**🏆 ProtectCyber**
 
 [Demo](#-demo) • [Features](#-จุดเด่น) • [Architecture](#-สถาปัตยกรรม) • [Installation](#-การติดตั้ง) • [Documentation](#-เอกสารประกอบ)
 
 </div>
 
----
-
-## 📋 สารบัญ
-
-- [ภาพรวมโครงการ](#-ภาพรวมโครงการ)
-- [ปัญหาที่แก้ไข](#-ปัญหาที่แก้ไข)
-- [จุดเด่น](#-จุดเด่น)
-- [เทคโนโลยี](#-เทคโนโลยีที่ใช้)
-- [สถาปัตยกรรม](#-สถาปัตยกรรม)
-- [การติดตั้ง](#-การติดตั้ง)
-- [การใช้งาน](#-การใช้งาน)
-- [Demo](#-demo)
-- [ผลการทดสอบ](#-ผลการทดสอบ)
-- [ทีมพัฒนา](#-ทีมพัฒนา)
-
----
 
 ## 🎯 ภาพรวมโครงการ
 
@@ -425,43 +409,7 @@ Bot: 🟢 ระดับความเสี่ยง: SAFE (91%)
 
 ---
 
-## 🤝 การมีส่วนร่วม
 
-เรายินดีรับ Contribution จากทุกคน!
-
-### **วิธีการ Contribute**
-1. Fork โปรเจค
-2. สร้าง Branch ใหม่ (`git checkout -b feature/AmazingFeature`)
-3. Commit การเปลี่ยนแปลง (`git commit -m 'Add some AmazingFeature'`)
-4. Push ไปยัง Branch (`git push origin feature/AmazingFeature`)
-5. เปิด Pull Request
-
-### **Code of Conduct**
-- เคารพซึ่งกันและกัน
-- เขียนโค้ดที่สะอาดและมี Comment
-- ทดสอบก่อน PR
-- ใช้ภาษาไทยในเอกสาร
-
----
-
-## 👨‍💻 ทีมพัฒนา
-
-### **Cyber Guardian Team**
-
-- **หัวหน้าทีม & AI/ML Developer**
-  - พัฒนา AI Engine และ ML Models
-  
-- **Security Specialist & Backend Developer**
-  - ระบบความปลอดภัยและ Backend
-  
-- **UX Designer & Frontend Developer**
-  - ออกแบบ UI/UX และ Frontend
-
-**📧 ติดต่อ**: protectcyber@example.com  
-**🌐 Website**: https://protectcyber.org  
-**💬 LINE**: @protectcyber
-
----
 
 ## 📄 License
 
@@ -469,31 +417,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 🙏 กิตติกรรมประกาศ
-
-- **SCBEIC** - Typhoon AI Thai Language Model
-- **OpenRouter** - Multi-AI API Platform
-- **LINE Corporation** - LINE Bot Platform
-- **ThaiCERT** - Thai Cyber Threat Intelligence
-- **NCSA** - National Cyber Security Agency
-
----
 
 ## 📞 ช่องทางติดต่อ
 
-- 📱 **LINE Official**: @protectcyber
-- 📧 **Email**: support@protectcyber.org
-- 🌐 **Website**: https://protectcyber.org
-- 💬 **Facebook**: /ProtectCyberThailand
-- 🐦 **Twitter**: @ProtectCyberTH
-
----
-
-## 🏆 รางวัลและการยอมรับ
-
-- 🥇 **Hackathon Winner 2024** - Best Social Impact Project
-- 🌟 **Thailand ICT Award 2025** - Nominee
-- 📰 **Featured in Tech Media** - ThaiTech, Techsauce
+- 📧 **Email**: techit.y@login-learning.com
+- 💬 **Facebook**: /Login-Engineering สอนโครงงาน เข้าคณะวิศวะ / ออกแบบและผลิตระบบ Auto-IoT & AI 
 
 ---
 
@@ -505,7 +433,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with ❤️ by Cyber Guardian Team
+Made with ❤️ by Login-laerning
 
 ![Thailand](https://img.shields.io/badge/Made%20in-Thailand-red)
 ![For Elderly](https://img.shields.io/badge/For-Elderly-orange)
