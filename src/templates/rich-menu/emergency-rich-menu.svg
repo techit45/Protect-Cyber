@@ -1,0 +1,30 @@
+
+<svg width="2500" height="843" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF4444;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#C62828;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="2500" height="843" fill="url(#bg)"/>
+  
+  <!-- โทรตำรวจ 191 -->
+  <rect x="20" y="20" width="793" height="803" fill="#FFFFFF" rx="20" stroke="#C62828" stroke-width="4"/>
+  <text x="416" y="250" text-anchor="middle" font-family="Arial" font-size="80" font-weight="bold" fill="#C62828">👮‍♂️</text>
+  <text x="416" y="350" text-anchor="middle" font-family="Arial" font-size="70" font-weight="bold" fill="#C62828">191</text>
+  <text x="416" y="450" text-anchor="middle" font-family="Arial" font-size="50" font-weight="bold" fill="#C62828">ตำรวจ</text>
+  
+  <!-- โทร ThaiCERT 1441 -->
+  <rect x="853" y="20" width="794" height="803" fill="#FFFFFF" rx="20" stroke="#C62828" stroke-width="4"/>
+  <text x="1250" y="250" text-anchor="middle" font-family="Arial" font-size="80" font-weight="bold" fill="#C62828">🛡️</text>
+  <text x="1250" y="350" text-anchor="middle" font-family="Arial" font-size="70" font-weight="bold" fill="#C62828">1441</text>
+  <text x="1250" y="450" text-anchor="middle" font-family="Arial" font-size="50" font-weight="bold" fill="#C62828">ThaiCERT</text>
+  
+  <!-- ยืนยันปลอดภัย -->
+  <rect x="1687" y="20" width="793" height="803" fill="#FFFFFF" rx="20" stroke="#4CAF50" stroke-width="4"/>
+  <text x="2083" y="250" text-anchor="middle" font-family="Arial" font-size="80" font-weight="bold" fill="#4CAF50">✅</text>
+  <text x="2083" y="350" text-anchor="middle" font-family="Arial" font-size="60" font-weight="bold" fill="#4CAF50">ยืนยัน</text>
+  <text x="2083" y="420" text-anchor="middle" font-family="Arial" font-size="60" font-weight="bold" fill="#4CAF50">ปลอดภัย</text>
+</svg>

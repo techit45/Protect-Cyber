@@ -1,0 +1,50 @@
+
+<svg width="2500" height="1686" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4CAF50;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2E7D32;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="2500" height="1686" fill="url(#bg)"/>
+  
+  <!-- Top Row -->
+  <!-- ตรวจสอบข้อความใหม่ -->
+  <rect x="10" y="10" width="813" height="823" fill="#FFFFFF" rx="20" stroke="#2E7D32" stroke-width="4"/>
+  <text x="416" y="350" text-anchor="middle" font-family="Arial" font-size="80" font-weight="bold" fill="#2E7D32">🔍</text>
+  <text x="416" y="450" text-anchor="middle" font-family="Arial" font-size="60" font-weight="bold" fill="#2E7D32">ตรวจสอบ</text>
+  <text x="416" y="520" text-anchor="middle" font-family="Arial" font-size="60" font-weight="bold" fill="#2E7D32">ข้อความใหม่</text>
+  
+  <!-- ตรวจสอบข้อความเก่า -->
+  <rect x="843" y="10" width="814" height="823" fill="#FFFFFF" rx="20" stroke="#2E7D32" stroke-width="4"/>
+  <text x="1250" y="350" text-anchor="middle" font-family="Arial" font-size="80" font-weight="bold" fill="#2E7D32">📄</text>
+  <text x="1250" y="450" text-anchor="middle" font-family="Arial" font-size="60" font-weight="bold" fill="#2E7D32">ตรวจสอบ</text>
+  <text x="1250" y="520" text-anchor="middle" font-family="Arial" font-size="60" font-weight="bold" fill="#2E7D32">ข้อความเก่า</text>
+  
+  <!-- ขอความช่วยเหลือ -->
+  <rect x="1677" y="10" width="813" height="823" fill="#FFFFFF" rx="20" stroke="#2E7D32" stroke-width="4"/>
+  <text x="2083" y="350" text-anchor="middle" font-family="Arial" font-size="80" font-weight="bold" fill="#2E7D32">🆘</text>
+  <text x="2083" y="450" text-anchor="middle" font-family="Arial" font-size="60" font-weight="bold" fill="#2E7D32">ขอความ</text>
+  <text x="2083" y="520" text-anchor="middle" font-family="Arial" font-size="60" font-weight="bold" fill="#2E7D32">ช่วยเหลือ</text>
+  
+  <!-- Bottom Row -->
+  <!-- รายงานปัญหา -->
+  <rect x="10" y="853" width="813" height="823" fill="#FFFFFF" rx="20" stroke="#2E7D32" stroke-width="4"/>
+  <text x="416" y="1193" text-anchor="middle" font-family="Arial" font-size="80" font-weight="bold" fill="#2E7D32">📋</text>
+  <text x="416" y="1293" text-anchor="middle" font-family="Arial" font-size="60" font-weight="bold" fill="#2E7D32">รายงาน</text>
+  <text x="416" y="1363" text-anchor="middle" font-family="Arial" font-size="60" font-weight="bold" fill="#2E7D32">ปัญหา</text>
+  
+  <!-- เรียนรู้เพิ่มเติม -->
+  <rect x="843" y="853" width="814" height="823" fill="#FFFFFF" rx="20" stroke="#2E7D32" stroke-width="4"/>
+  <text x="1250" y="1193" text-anchor="middle" font-family="Arial" font-size="80" font-weight="bold" fill="#2E7D32">📚</text>
+  <text x="1250" y="1293" text-anchor="middle" font-family="Arial" font-size="60" font-weight="bold" fill="#2E7D32">เรียนรู้</text>
+  <text x="1250" y="1363" text-anchor="middle" font-family="Arial" font-size="60" font-weight="bold" fill="#2E7D32">เพิ่มเติม</text>
+  
+  <!-- ติดต่อฉุกเฉิน -->
+  <rect x="1677" y="853" width="813" height="823" fill="#FFFFFF" rx="20" stroke="#FF4444" stroke-width="4"/>
+  <text x="2083" y="1193" text-anchor="middle" font-family="Arial" font-size="80" font-weight="bold" fill="#FF4444">🚨</text>
+  <text x="2083" y="1293" text-anchor="middle" font-family="Arial" font-size="60" font-weight="bold" fill="#FF4444">ติดต่อ</text>
+  <text x="2083" y="1363" text-anchor="middle" font-family="Arial" font-size="60" font-weight="bold" fill="#FF4444">ฉุกเฉิน</text>
+</svg>
